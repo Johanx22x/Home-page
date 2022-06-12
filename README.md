@@ -3,7 +3,7 @@
   ## Table-of-Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [Tests](#tests)
+  * [Examples](#examples)
   * [Usage](#usage)
   * [Questions](#questions)
   ---
@@ -22,7 +22,7 @@
 
   ---
 
-  ## [Tests](#table-of-contents)
+  ## [Examples](#table-of-contents)
   
   ### Home page 
   ![Alt text](./images/screen-1.png "Custom design")
